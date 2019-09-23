@@ -1,0 +1,47 @@
+{
+  "name": "climateprojectionsapp",
+  "version": "1.0.0",
+  "description": "GOTA Web Portal for Climate Projections",
+  "main": "index.js",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "iso8601": "^1.1.1",
+    "jquery": "^3.4.1",
+    "leaflet": "^1.5.1",
+    "leaflet-area-select": "^1.0.3",
+    "leaflet-draw": "^1.0.4",
+    "leaflet-easybutton": "^2.4.0",
+    "leaflet-mouse-position": "^1.2.0",
+    "leaflet-timedimension-new": "^1.1.0",
+    "leaflet.fullscreen": "^1.5.1",
+    "npm": "^6.11.2"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alu0100902341/TFG.git"
+  },
+  "keywords": [
+    "GOTA",
+    "web",
+    "portal",
+    "app",
+    "climate",
+    "climate",
+    "change",
+    "climate",
+    "projection"
+  ],
+  "author": "Sergio Ravelo Vegino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alu0100902341/TFG/issues"
+  },
+  "homepage": "https://github.com/alu0100902341/TFG#readme"
+}
