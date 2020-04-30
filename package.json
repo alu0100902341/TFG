@@ -6,7 +6,7 @@
   "dependencies": {
     "dateformat": "^3.0.3",
     "iso8601": "^1.1.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "leaflet": "^1.5.1",
     "leaflet-area-select": "^1.0.3",
     "leaflet-draw": "^1.0.4",
