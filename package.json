@@ -14,7 +14,7 @@
     "leaflet-mouse-position": "^1.2.0",
     "leaflet-timedimension-new": "^1.1.0",
     "leaflet.fullscreen": "^1.5.1",
-    "npm": "^6.11.2"
+    "npm": "^6.14.6"
   },
   "devDependencies": {
     "webpack": "^4.39.3",
